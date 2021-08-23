@@ -1,6 +1,6 @@
-# 🚀 Welcome to your new awesome project!
+# To run this project you have to download and run the server https://github.com/mikhama/async-race-api
 
-This project has been created using **webpack-cli**, you can now run
+
 
 ```
 npm run build
