@@ -1,0 +1,42 @@
+body {
+  font-size: 1.2em;
+}
+
+@keyframes car {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: 80vw;
+  }
+}
+
+.car {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+}
+
+.road {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: medium dashed black;
+}
+
+li {
+  margin-bottom: 50px;
+}
+
+.finish {
+  margin-right: 10%;
+}
+
+button {
+  padding: 5px;
+  background-color: rgb(159, 217, 219);
+  border-radius: 5px;
+}
+ul,
+li {
+  list-style: none;
+}
